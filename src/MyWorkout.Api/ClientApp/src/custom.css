@@ -1,0 +1,52 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.btn-create {
+  float: right;
+  margin-bottom: 5px;
+}
+
+.table-header {
+  background-color: #D3D3D3;
+}
+
+.table-heading {
+  display: inline-block;
+  float: left;
+}
+
+.table-btn-cell {
+  text-align: right;
+}
+
+.create-program-modal {
+  max-width: 25%
+}
+
+.view-program-modal {
+    max-width: 60%
+}
+
+.create-program-exercise-modal {
+  max-width: 35%
+}
+
+.create-workout-modal {
+  max-width: 25%
+}
+
+.view-workout-modal {
+  max-width: 70%
+}
